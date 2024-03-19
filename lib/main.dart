@@ -70,9 +70,9 @@ class _MyHomePageState extends State<MyHomePage> {
           TextSpan(text: ' \n            W',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.red,letterSpacing: 3)),
           TextSpan(text: 'EB',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color:Colors.blue,letterSpacing: 3)),
 
-          TextSpan(text: ' \n         FAS',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color:Colors.yellow,letterSpacing: 3)),
+          TextSpan(text: ' \n         FAS',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color:Colors.lightgreen,letterSpacing: 3)),
           TextSpan(text: 'H',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.red,letterSpacing: 3)),
-          TextSpan(text: 'ION',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color:Colors.yellow,letterSpacing: 3)),
+          TextSpan(text: 'ION',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color:Colors.lightgreen,letterSpacing: 3)),
 
           TextSpan(text: ' \n   ANIMAT',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color:Colors.teal,letterSpacing: 3)),
           TextSpan(text: 'I',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.red,letterSpacing: 3)),
